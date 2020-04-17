@@ -40,7 +40,7 @@ export default {
         },
         {
           title: 'City Hunter',
-          image: require('../assets/1.jpg'),
+          image: require('../assets/3.jpg'),
           duration: '130 min',
           director: 'Anime Indo',
           release: 2019,
